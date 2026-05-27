@@ -282,19 +282,6 @@ transition: opacity 1.0s;
   white-space: nowrap;
 }
 
-.booster-affiliation img {
-  height: 44px;
-}
-
-.booster-affiliation span {
-  color: #050505;
-  font-family: 'Arial Black', Arial, sans-serif;
-  font-size: 1.35rem;
-  letter-spacing: 0.08em;
-  line-height: 0.94;
-  text-align: left;
-}
-
 .featured-video,
 .video-card video {
   aspect-ratio: 16 / 9;
@@ -384,14 +371,6 @@ transition: opacity 1.0s;
 
   .affiliation-link span {
     font-size: 1.55rem;
-  }
-
-  .booster-affiliation img {
-    height: 32px;
-  }
-
-  .booster-affiliation span {
-    font-size: 0.92rem;
   }
 
   .overview-abstract {
