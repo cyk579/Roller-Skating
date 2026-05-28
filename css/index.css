@@ -269,7 +269,7 @@ transition: opacity 1.0s;
 .affiliation-link img {
   display: block;
   filter: drop-shadow(0 1px 3px rgba(255, 255, 255, 0.75));
-  height: 46px;
+  height: 56px;
   width: auto;
 }
 
@@ -366,7 +366,7 @@ transition: opacity 1.0s;
   }
 
   .affiliation-link img {
-    height: 34px;
+    height: 40px;
   }
 
   .affiliation-link span {
