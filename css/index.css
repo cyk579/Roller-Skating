@@ -115,6 +115,19 @@ body {
   line-height: 1.55;
 }
 
+.system-overview-figure {
+  margin: 2.5rem auto 0;
+  text-align: center;
+}
+
+.system-overview-image {
+  display: block;
+  height: auto;
+  margin: 0 auto;
+  max-width: 900px;
+  width: 100%;
+}
+
 .method-framework {
   display: block;
   margin: 0 auto 1.5rem;
